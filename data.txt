@@ -1,0 +1,16 @@
+https://hooks.slack.com/services/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
+
+"U1YP8QH1Q:T1YE3NA8G"
+niyati
+
+"B1YNUJ8MD:T1YE3NA8G"
+oktabot
+
+"U1YEAR83F:T1YE3NA8G"
+"newmoonindustries"
+
+
+
+"niyati.7777@gmail.com<mailto:niyati.7777@gmail.com>"
+
+{ "name": "web", "active": "true", "events": [ "push", "pull_request" ], "config": { "url": "https://hooks.slack.com/services/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", "content_type": "json" } }
